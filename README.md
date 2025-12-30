@@ -64,7 +64,7 @@ tech_challenge/
 ├── src/                        # Código Python reutilizável
 │   └── preprocessing/
 │
-└── old_docs/                   # Documentação arquivada
+
 ```
 
 ## Pipeline de Machine Learning
@@ -300,6 +300,9 @@ Este projeto é disponibilizado para fins educacionais. Os dados são públicos 
 
 ---
 
-**Última atualização**: Dezembro 2024
+**Última atualização**: Dezembro 2025
 
 Desenvolvido com foco em **didática**, **reprodutibilidade** e **boas práticas** de Machine Learning.
+
+Criado por: Guilherme Favaron
+**www.guilhermefavaron.com.br**
