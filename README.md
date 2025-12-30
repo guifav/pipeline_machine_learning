@@ -41,7 +41,7 @@ Informações das companhias aéreas:
 ## Estrutura do Projeto
 
 ```
-tech_challenge/
+pipeline_ml/
 │
 ├── data/
 │   ├── raw/                    # Dados originais
@@ -179,7 +179,7 @@ tech_challenge/
 
 ```bash
 # 1. Clone ou baixe o repositório
-cd tech_challenge
+cd pipeline_ml
 
 # 2. Crie um ambiente virtual
 python3 -m venv venv
