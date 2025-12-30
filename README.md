@@ -62,8 +62,8 @@ tech_challenge/
 │   └── figures/                # Gráficos e visualizações
 │
 ├── src/                        # Código Python reutilizável
-│   └── preprocessing/
-│
+    └── preprocessing/
+
 
 ```
 
