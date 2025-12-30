@@ -1,0 +1,82 @@
+# Tech Challenge - .gitignore
+
+# Datasets (muito grandes para versionar)
+*.csv
+*.json
+*.parquet
+*.xlsx
+*.xls
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modelos treinados (salvos localmente)
+models/*
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+.venv*/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Figuras temporárias (manter apenas as finais)
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.svg
+!reports/figures/final_*
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
