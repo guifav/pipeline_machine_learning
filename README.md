@@ -2,6 +2,8 @@
 
 Projeto educacional completo de Machine Learning aplicado a dados reais de aviação comercial nos Estados Unidos.
 
+**Artigo:** [Como Criar um Modelo de Machine Learning a Partir de Planilhas: Guia Completo](https://guifav.dev/blog/como-criar-um-modelo-de-machine-learning/)
+
 ## Sobre o Projeto
 
 Este repositório contém um estudo completo de ciência de dados e machine learning para **prever atrasos de voos**, utilizando um dataset com aproximadamente **5.8 milhões de registros** de voos realizados em 2015.
@@ -305,4 +307,4 @@ Este projeto é disponibilizado para fins educacionais. Os dados são públicos 
 Desenvolvido com foco em **didática**, **reprodutibilidade** e **boas práticas** de Machine Learning.
 
 Criado por: Guilherme Favaron
-**www.guilhermefavaron.com.br**
+**[guifav.dev](https://guifav.dev/)**
